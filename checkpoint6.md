@@ -277,7 +277,7 @@ Las APIs son muy importantes en el dia a dia, ya que algunos de los ejemplos mas
 ## **¿Qué es Postman?**  
 
 
-![Logo de Postman](Images\logo_postman.png)  
+![Logo de Postman](Images/logo_postman.png)  
 **Postman** es una herramienta que permite a los desarrolladores probar y documentar APIs, ya que permite hacer sencillamente peticiones HTTP, es decir, los verbos que hemos hablado anteriormente: GET, POSt, PUT y DELETE; ademas permite ver las respuestas entregadad por la API a la solicitud sin tener que escribir el codigo.
 
 En resumen, nos permite:
