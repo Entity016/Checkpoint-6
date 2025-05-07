@@ -4,7 +4,7 @@
 
 ## **¿Para qué usamos Clases en Python?** 
 
-![Clases en python](Images\clases_python.png)
+![Clases en python](Images/clases_python.png)
 
 Las clases provee una frome de empaquetar datos y funcionalidad juntos, y ya que python es un lenguaje **orientado a objetos**, tiene un soporte de primer nivel en la creacion de clases, pero no es imprescindible usarlas para hacer un programa.  
 Para crear una clase, primero usamos la palabra reservada *class* seguida del nombre que le queramos dar a esa clase, pero tiene que estar escrito, **primera letra en mayuscula**, y **el resto en minuscula**  
