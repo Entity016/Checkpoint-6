@@ -157,7 +157,7 @@ Los verbos en las APIs sirven para realizar diversas funciones, estas funciones 
 
 ## **¿Es MongoDB una base de datos SQL o NoSQL?**  
 
-![MongoDB Logo](Images\logo_mongodb.png)
+![MongoDB Logo](Images/logo_mongodb.png)
 
 Mongo DB nes una base de datos NoSQL, ¿y esto porque es?  
 1. Esto es porque utiliza JSON/BSON
