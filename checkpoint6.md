@@ -1,6 +1,8 @@
-#Checkpoint 6
+# **Checkpoint 6**
 
-**##¿Para qué usamos Clases en Python?**  
+
+
+## **¿Para qué usamos Clases en Python?** 
 
 ![Clases en python](Images\clases_python.png)
 
@@ -77,7 +79,13 @@ class Triangulo(Medidas_poligono):
         return (self.base * self.altura) / 2
 ~~~
 
-**##¿Qué método se ejecuta automáticamente cuando se crea una instancia de una clase?**  
+
+
+
+
+
+
+## **¿Qué método se ejecuta automáticamente cuando se crea una instancia de una clase?**  
 
 Como hemos mencionado antes, el metodo `__init__`, que se escribe con dos guiones bajos al principio y al final, es el metodo que se ejecuta automaticamente cuando se crea una instancia en una clase. Este metodo tambien tiene el nombre de *contructor*. Vamos a poner un ejemplo:
 
@@ -110,7 +118,7 @@ saludo.saludar()
 
 Si incluimos la segunda linea del codigo anterior en el argumento de *print*, veremos que nos devuelve *'Hola Pablo!'*, pero a diferencia de si hubieramos hecho *hardcode* el nombre de Pablo en el codigo, ahora la funcion puede aceptar cualquier nombre, ya que igual el programa no siempre saluda a la misma persona.
 
-**##¿Cuáles son los tres verbos de API?**  
+## **¿Cuáles son los tres verbos de API?**  
 
 Los verbos en las APIs sirven para realizar diversas funciones, estas funciones se realizan utilizando una URL, *Localhost5000/User* por ejemplo, empezamos por el primero
 
@@ -143,7 +151,11 @@ Los verbos en las APIs sirven para realizar diversas funciones, estas funciones 
 
 
 
-**##¿Es MongoDB una base de datos SQL o NoSQL?**  
+
+
+
+
+## **¿Es MongoDB una base de datos SQL o NoSQL?**  
 
 ![MongoDB Logo](Images\logo_mongodb.png)
 
@@ -244,7 +256,12 @@ db.dropDatabase()
 
 En conclusion, MongoDB es una base de datos muy versatil, facil de entender y de usar, y se puede usar en formato de consola, con la propia Shell de Mongo(mongosh)
 
-**##¿Qué es una API?**  
+
+
+
+
+
+** ##¿Qué es una API?**  
 
 **API**, que quiere decir *Apliccation Programmin Interface* o *Interfaz de Programacionde Aplicaciones* es un conjunto de normas o herramientas que permiten dos sistemas de software comunicarse entre si para poder compartir datos o funciones sin que este construida internamente.
 Por ejemplo, la aplicacion de tiempo del movil, no mide ella misma los datos, si no que se comunica con una API de meteorologia, realiza una peticion para poder recibir esos datos y mostrartelos a ti.  
@@ -253,7 +270,11 @@ Las APIs usan los verbos GET, POST, PUT, DELETE, que realizan funciones como cre
 
 Las APIs son muy importantes en el dia a dia, ya que algunos de los ejemplos mas llamativos o mas importantes son por ejemplo las sincronizaciones de galerias para guardar fotos en la nube, el acceso en mapas en aplicaciones o webs
 
-**##¿Qué es Postman?**  
+
+
+
+
+## **¿Qué es Postman?**  
 
 
 ![Logo de Postman](Images\logo_postman.png)  
@@ -380,7 +401,10 @@ print(caja_A, [1])  # destornillador
 print(caja_B, [0])  # clavos
 ~~~
 
-**#¿Qué es un decorador de python?**  
+
+
+
+## **¿Qué es un decorador de python?**  
 
 Los **decoradores** son funciones que modifican el comportamiento de otras funciones, y nos permite optimizar y acortar los codigos. Se les identifica por la presencia de **@** a la hora de implementarlo en la funcion que queremos. En resumen, los decoradores son funciones que reciben otras funciones como parametros, y te devuelven una cosa diferente.  
 Imaginemos que queremos una calculadora que nos presente los resultados:
